@@ -31,7 +31,7 @@
 # Additional Requirements :
 
 ## 🟠 newsapi.org  API Key :  
-####  You need to make a account in newsapi.org and use your api key in the code 
+####  You need to make an account in newsapi.org and use your api key in the code 
 
 <br>
 
