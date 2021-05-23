@@ -24,7 +24,14 @@
 
 ####  How to install pywin32  ->   pip install pywin32
 
+##  🔶 Requests 
 
+<br>
+
+# Additional Requirements :
+
+## 🟠 newsapi.org  API Key :  
+####  You need to make a account in newsapi.org and use your api key in the code 
 
 <br>
 
@@ -37,23 +44,16 @@
 <br>
 
 
-
-
-
-
 # Instructions 
 
-## ✔ Press 1 to display All the Books available.
-## ✔ Press 2 to Lend a Book From this Library.
-## ✔ Press 3 to Return Back a Book .
-## ✔ Press 4 to Donate a Book.
+## ✔ Give input between 1 to 30 .
 
 <br>
 
 # Warnings 
 
-## ❌ No Data Base Used. 
-## ❌ All Data will be reset after exiting this program.
+ 
+## ❌ newsapi.org Api key mendatory .
 
 <div align = "center">
    
